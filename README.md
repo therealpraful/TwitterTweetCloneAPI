@@ -3,7 +3,7 @@ This the REST API used in TwitterTweetCLone to fetch the tweets .
 
 ## Initialization
 
-Clone the repository into a folder
+Clone the repository into a folder and also clone [LINK](https://github.com/therealpraful/TwitterTweetsClone)
 
     git clone <Link>
 
@@ -18,3 +18,5 @@ Open Terminal
 
 Run `nodemon app.js` to start the server
 
+
+LIVE NOW [LINK](https://praful-twitterclone.netlify.app/)
